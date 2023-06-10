@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=header&&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=195&section=header&&fontSize=90" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=32CD32&weight=1000&center&size=50&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Kristian+Oliveira;Tenho+19+anos+;I'm+from+Brazil;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
