@@ -14,7 +14,7 @@
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/kristian-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4682B4" style="border-radius: 30px" target="_blank"></a> <br>
-<a href="https://instagram.com/felipebarbourr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=32CD32" style="border-radius: 30px"> </a> 
+<a href="https://instagram.com/kristian_oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=32CD32" style="border-radius: 30px"> </a> 
 <a href = "mailto:kristian.oliveirasilva@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6347" style="border-radius: 20px"target="_blank"></a> 
 
  </div>
