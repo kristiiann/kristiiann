@@ -10,6 +10,7 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kristiiann&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=00FFFF&bg_color=000000" alt="Kristian Oliveira github status" /> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristiiann&layout=compact&hide_border=true&title_color=32CD32&text_color=00FFFF&bg_color=000000" />
 </div>
+<br>
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/kristian-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4682B4" style="border-radius: 30px" target="_blank"></a> <br>
@@ -42,18 +43,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=100&section=footer&&fontSize=90" />
-
-<!--
-**kristiiann/kristiiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
